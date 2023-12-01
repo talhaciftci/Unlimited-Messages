@@ -9,5 +9,4 @@ for i in range(100):
 
   pg.press('Enter')
 
-
 #Buraya sağ tıkla Run in Interactive Window bölümüne gir, kullanacağın bölümü seç (Ben en alttakini kullanıyorum.).bu işlemi yaptığında direkt mesaj atacağın yere fare ile tıkla (farklı bir yer olabilir) unutma 10 saniyen var.=)
